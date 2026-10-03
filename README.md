@@ -118,7 +118,7 @@ Learn how to deploy n8n on an Amazon EC2 instance using Docker for workflow host
 
 # Architecture Diagram
 
-![Architecture Diagram](https://labresources.whizlabs.com/a365df79e69cc9178c7f81f0c9c4f60a/picture1_34_47.png)
+![Architecture Diagram](image/picture1_34_47.png)
 
 ---
 
