@@ -37,7 +37,7 @@
 
 # Architecture Diagram
 
-![Architecture Diagram](image/picture1_34_47.png)
+![Architecture Diagram](picture1_34_47.png)
 
 # Task Details
 
